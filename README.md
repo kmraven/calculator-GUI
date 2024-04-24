@@ -1,6 +1,6 @@
 # Calcurator-GUI
 
-This is a simple calculator program created using Java Swing GUI library. It imitates the macOS calculator's interface and functionality.
+This is a simple calculator program created using Java Swing GUI library. It imitates the macOS calculator's functionality.
 
 <img width="500" alt="スクリーンショット 2024-04-24 17 40 04" src="https://github.com/kmraven/calcurator-GUI/assets/128337097/64bbc51e-7ade-4850-af20-8a6d8c70db33">
 
