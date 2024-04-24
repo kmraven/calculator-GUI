@@ -17,9 +17,3 @@ To run the calculator on your local machine, follow these steps:
 1. Clone this repository to your local machine using `git clone https://github.com/kmraven/calcurator-GUI.git`.
 2. Open the project in your preferred Java IDE.
 3. Compile and run the `Calc.java` file.
-
-## Usage
-
-- Simply click the buttons to input numbers and perform operations.
-- Click the "=" button to get the result of the calculation.
-- Use the "C" button to clear the calculator and start over.
